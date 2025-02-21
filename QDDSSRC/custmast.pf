@@ -1,6 +1,6 @@
       *%METADATA                                                       *
       * %TEXT Customer details                                         *
-      *%EMETADATA                                                      *
+      *%EMETADATA                                                       *
      A          R CUSTMASTR
      A            CUSTID         7  0
      A            CUSTFNAM      30
