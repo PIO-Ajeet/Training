@@ -1,0 +1,8 @@
+     A          R ORDERITEMR
+     A            CUSTID         7  0
+     A            ITEMCODE       7  0
+     A            ITEMABBE      10
+     A            ITEMDESC      20
+     A            ITEMQTY        5  0
+     A            ITEMPRICE      6  2
+     A            TOTALPRIC     10  2

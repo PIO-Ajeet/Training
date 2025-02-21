@@ -1,0 +1,6 @@
+      *%METADATA                                                       *
+      * %TEXT Customer Detail                                          *
+      *%EMETADATA                                                      *
+     A          R ORDERITEMR                PFILE(ORDERITEM)
+     A          K CUSTID
+     A          K ITEMCODE

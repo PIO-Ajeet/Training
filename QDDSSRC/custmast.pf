@@ -1,0 +1,16 @@
+      *%METADATA                                                       *
+      * %TEXT Customer details                                         *
+      *%EMETADATA                                                      *
+     A          R CUSTMASTR
+     A            CUSTID         7  0
+     A            CUSTFNAM      30
+     A            CUSTMNAM      30
+     A            CUSTLNAM      30
+     A            CUSTDOB       10
+     A            CUSTADD1      30
+     A            CUSTADD2      30
+     A            CUSTADD3      30
+     A            CUSTCITY      10
+     A            CUSTSTAT      10
+     A            CUSTCNTRY     10
+     A            CUSTPHNO      10  0

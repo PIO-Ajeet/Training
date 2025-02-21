@@ -1,0 +1,3 @@
+CUSTMAINR.PGM: custmainr.pgm.rpgle CUSTMASTL1.FILE
+DETAILP.MODULE: detailp.sqlrpgle CUSTMAST.FILE
+ORDERDTLR.PGM: orderdtlr.pgm.rpgle ORDERITML1.FILE

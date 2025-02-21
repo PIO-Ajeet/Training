@@ -1,0 +1,11 @@
+      *%METADATA                                                       *
+      * %TEXT Customer details                                         *
+      *%EMETADATA                                                      *
+     A          R ITEMMASTR
+     A            ITEMCODE       7  0       TEXT('Item Code')
+     A            ITEMABBE      20          TEXT('Item Abbreviation')
+     A            ITEMDESC      30          TEXT('Item Description')
+     A            ITEMCOST       8  2       TEXT('Item Standard Cost')
+     A            ITEMDISC       5  2       TEXT('Discount Percentage')
+     A            IMHAND         6  0       TEXT('On-Hand Quantity')
+     A            IMORDR         6  0       TEXT('On-Order Quantity')

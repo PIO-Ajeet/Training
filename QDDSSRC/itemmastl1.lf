@@ -1,0 +1,5 @@
+      *%METADATA                                                       *
+      * %TEXT Customer Detail                                          *
+      *%EMETADATA                                                      *
+     A          R ITEMMASTR                 PFILE(ITEMMAST)
+     A          K ITEMCODE

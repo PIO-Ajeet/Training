@@ -1,0 +1,1 @@
+DETAILPBND.SRVPGM: detailpbnd.bnd DETAILP.MODULE
